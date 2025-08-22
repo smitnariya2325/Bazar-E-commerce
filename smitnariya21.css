@@ -1,0 +1,1044 @@
+.body {
+    background-color: #F7F7F7;
+    ;
+}
+
+.onebutton-div {
+    align-items: center;
+    display: flex;
+    margin-left: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.buttononediv {
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+.button-div {
+    align-items: center;
+    margin-left: 50px;
+    background-color: blue;
+    border: none;
+    color: white
+}
+
+.svgmain-div {}
+
+.twobuttondiv-div {
+    display: flex;
+    margin-left: 400px;
+}
+
+.button {
+    margin: 20px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+.maindivbutton {
+    display: flex;
+    background-color: blue;
+}
+
+.twomain-div {
+    background-color: blue;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.searchdiv {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid black; */
+    background-color: white;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.logosearchdiv {
+    display: flex;
+}
+
+.searchmaindiv {
+    border: none;
+    margin-left: 20px;
+    font-size: 15px;
+
+}
+
+.optiondiv {
+    border: none;
+    margin-left: 150px;
+    font-size: 15px;
+}
+
+.searchicondiv {
+    border: none;
+    background-color: yellow;
+
+}
+
+.logodiv1 {
+    margin-left: 30px;
+}
+
+.icondiv-div {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.iconmaindiv-2 {
+    margin-left: 70px;
+    display: flex;
+}
+
+.svgmaindiv-div {
+    margin-right: 10px;
+}
+
+.pregrafdiv {
+    margin: 5px;
+    color: white;
+}
+
+.threediv {
+    display: flex;
+    background-color: blue;
+}
+
+.svgmaindiv-3 {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.pregrafdiv1 {
+    font-size: 15px;
+    color: white;
+
+}
+
+.svgmaindiv-1 {
+    margin-right: 15px;
+}
+
+.boxbody {
+    border: 1px solid yellow;
+    height: 70px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    background-color: #FFDC60;
+}
+
+.pregraf1div {
+    font-size: 15px;
+    margin: 0%;
+    color: black;
+    margin-left: 10px;
+}
+
+.hedig3 {
+    font-size: 15px;
+    margin: 0%;
+    color: black;
+    margin-left: 10px;
+}
+
+.svdh3pdiv {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    margin-left: 30px;
+    box-shadow: 1px 1px 1px 1px rgb(70, 70, 70);
+    padding: 15px;
+}
+
+.twodivforh3p {
+    display: flex;
+    flex-direction: column;
+}
+
+.maindivfor {
+    display: flex;
+    padding: 10px 30px;
+    justify-content: space-between;
+}
+
+.maindivfor2 {
+    flex-direction: column;
+    background-color: blue;
+    width: 350px;
+    height: 735px;
+    display: flex;
+
+
+}
+
+.svgmain-div1 {
+    margin-right: 20px;
+}
+
+.peregrafdiv {
+    color: white;
+}
+
+.bclass {
+    font-size: 20px;
+}
+
+.imgmain-div {
+    padding: 20px 0px;
+    display: flex;
+    height: 450px;
+    background: linear-gradient(to left, #6666ff 0%, #ff3399 100%);
+    margin-left: 40px;
+
+
+}
+
+.imgdiv {
+    margin: 0px 0p 10px 190px;
+    padding: 50px;
+
+
+
+}
+
+.imgmain {
+    margin-top: -350px;
+    margin-left: -30px;
+
+}
+
+.button1 {
+    font-size: 18px;
+    padding: 3px 12px;
+    border-radius: 5px;
+}
+
+.hedig1 {
+    font-size: 40px;
+    padding: 16px 0px 45px;
+    color: white;
+
+}
+
+.button2 {
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.oneimgdiv {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top right, #F30EE3 0%, #FFB519 100%);
+    margin: 5px 13px;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.twoimgdiv {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top right, #f76b1c 0%, #f9a943 100%);
+    margin: 20px;
+    border-radius: 5px;
+    width: 350px;
+    height: 220px;
+
+
+}
+
+.imgdivmain2 {
+    flex-direction: column;
+    margin-top: -10px;
+
+}
+
+.imgtwodiv {
+    width: 250px;
+    height: 200px;
+}
+
+.buttondiv1 {
+    font-size: 15px;
+    padding: 1px 6px;
+    margin: 0px 0px 4px;
+    border-radius: 5px;
+    margin: 30px;
+
+}
+
+.twobuttonmain {
+    font-size: 15px;
+    font-weight: 100;
+    width: 120px;
+    height: 40px;
+    margin: 0px 0px 4px;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: -50px;
+}
+
+.pregraf2div {
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin: 30px;
+    margin-top: -20px;
+}
+
+.twodivimg {
+    justify-content: space-between;
+    margin-left: 30px;
+
+}
+
+.buttondiv-div {}
+
+.twobuttonmain1 {
+    font-size: 15px;
+    font-weight: 100;
+    width: 120px;
+    height: 40px;
+    margin: 0px 0px 4px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.pregraf1div2 {
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin: 30px;
+}
+
+.twodivmain {
+    display: flex;
+    width: -550px;
+    height: 200px;
+    background: linear-gradient(to top right, #ff00ff 0%, #66ffff 100%);
+    border-radius: 10px;
+}
+
+.twodivmain2 {
+    display: flex;
+    width: -550px;
+    height: 200px;
+    background: linear-gradient(to top right, #66ccff 0%, #00ffcc 100%);
+    border-radius: 10px;
+
+}
+
+.twodivmain-div {
+    display: flex;
+    margin-left: 380px;
+    margin-top: -220px;
+    gap: 20px;
+
+}
+
+.pregrafdiv2 {
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+}
+
+.button1 {
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.divdivmain {
+    padding: 40px;
+}
+
+.Supportbox1 {
+    height: 250px;
+    width: 330px;
+    background-color: #13BE91;
+    border-radius: 10px;
+
+
+
+}
+
+.Supportbox2 {
+    height: 250px;
+    width: 330px;
+    background-color: #FFA900;
+    border-radius: 10px;
+}
+
+.Supportbox3 {
+    height: 250px;
+    width: 330px;
+    background-color: #E9563D;
+    border-radius: 10px;
+}
+
+.Supportbox4 {
+    height: 250px;
+    width: 330px;
+    background-color: #4581FE;
+    border-radius: 10px;
+
+}
+
+.support-box4 {
+    padding-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.supporthedig {
+    font-size: 25px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -45px;
+}
+
+.supportperegraf {
+    font-size: 18px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -5px;
+}
+
+.imgdivmain1 {
+    margin-top: -20px;
+}
+
+.imgdiv1 {
+    justify-content: flex-end;
+    margin-top: -60px;
+    margin-left: 218px;
+}
+
+.ssmaindiv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.sshedig {
+    font-size: 25px;
+    font-weight: 800;
+    margin: 10px;
+}
+
+.ssimg {
+    display: flex;
+}
+
+.sssetigdiv {
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+
+}
+
+.onebutton1 {
+    border: 2px solid blue;
+    font-size: 15px;
+    border-radius: 8px;
+    font-weight: 500;
+    margin: 20px;
+    background-color: white;
+}
+
+.twobutton2 {
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 20px;
+    background-color: white;
+}
+
+.buttondivmain {
+    margin-left: 600px;
+
+}
+
+.pregrafdivl {
+    font-size: 15px;
+    color: red;
+}
+
+.pregrafdivl21 {
+    font-size: 20px;
+    color: black;
+    font-weight: 550;
+}
+
+.hedigimg2 {
+    font-size: 24px;
+}
+
+.maindivfordiv {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.imgdivmaindiv {
+    background-color: white;
+    width: 280px;
+    padding: 30px;
+}
+
+.buttondivnew {
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+}
+
+.buttondivsale {
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+}
+
+.twodivmain-2 {
+    margin-top: -545px;
+
+}
+
+.maindivfordiv2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+
+}
+
+.buttonhot {
+    border: none;
+    color: white;
+    background-color: #13BE91;
+    border-radius: 5px;
+
+
+}
+
+.buttonnew2 {
+    border: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #6666ff;
+}
+
+.buttondivhot {
+    margin-top: -545px;
+}
+
+.buttondivnew2 {
+    margin-top: -545px;
+}
+
+.mainmaindiv1 {
+    margin: 20px;
+}
+
+.backimgdiv {
+    display: flex;
+    background-image: url(/ultimate-bg.jpg);
+    margin: 30px;
+}
+
+.hedigbackdiv {
+    font-size: 64px;
+    color: #FFF;
+}
+
+.pbackdiv {
+    font-size: 20px;
+    color: #FFFC;
+    font-weight: 500;
+    margin-top: -25px;
+}
+
+.hedigpdiv1 {
+    font-size: 64px;
+    color: #FFDC60;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 700;
+}
+
+.hedigtwodiv {
+    margin-top: -50px;
+    color: #FFDC60;
+    font-family: "Roboto", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: -.3px;
+    display: flex;
+    align-items: center;
+}
+
+.maindivback1 {
+    margin-left: 70px;
+    padding-top: 30px;
+}
+
+.backbuttondiv {
+    margin-top: -120px;
+    font-size: 16px;
+    background-color: #FFDC60;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -.2px;
+    color: #101010;
+    padding: 21.2px 35px 21.2px 35px;
+    border-style: none;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.imgmainbackdiv {
+    margin-left: 1200px;
+    margin-top: -225px;
+}
+
+.twoimgmaindiv {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.buttonproducts {
+    font-size: 15px;
+    font-weight: 525;
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 890px;
+}
+
+.hedigdivmainbu {
+    margin: 20px;
+    font-size: 25px;
+}
+
+.twozointdiv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.pdivimgmain {
+    font-size: 24px;
+    color: blue;
+    font-weight: 600;
+}
+
+.hedigdivmainimg {
+    font-size: 16px;
+}
+
+.hedigdivmainimg2 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+.imgdivmainphdiv {
+    background-color: white;
+    width: 320px;
+    margin: 20px;
+}
+
+.twodivmain1 {
+    flex-direction: column;
+}
+
+.twodivmain2div {
+    flex-direction: column;
+}
+
+.onedivforzoint {
+    display: flex;
+    justify-content: center;
+}
+
+.imgdivmainphdiv2 {
+    background-color: white;
+    width: 320px;
+    padding: 30px;
+    margin: 20px;
+    height: 500px;
+}
+
+.imgpdiv3 {
+    display: flex;
+    align-items: center;
+}
+
+.buttonaddcart {
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 130px;
+
+
+}
+
+.buttonaddtodiv {
+    margin-top: -420px;
+}
+
+.buttondivmaincl {
+    margin-left: 100px;
+}
+
+.fivezointdiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fiveperegrafdiv {
+    color: red;
+    font-size: 15px;
+}
+
+.fivehedigdiv {
+    font-size: 18px;
+
+}
+
+.fiveperegraftwodiv {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.fivetwodivmain2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fiveindivmaindiv {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.tendivmaindiv {
+    margin: 20px;
+}
+
+.buttondivsale2 {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-weight: 550;
+    padding: 5px;
+}
+
+.maindivbutton-one {
+    margin-top: -380px;
+    margin-left: 150px;
+}
+
+.twobuttonsale {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-weight: 550;
+    padding: 5px;
+}
+
+.onebutton40 {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-weight: 550;
+    padding: 5px;
+}
+
+.mainbbuttondiv {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-weight: 550;
+    padding: 5px;
+}
+
+.divmaintwobutton {
+    margin-top: -380px;
+    margin-left: 120px;
+}
+
+.mainbdivbutton-div {
+    margin-top: -380px;
+    margin-left: 170px;
+}
+
+.mainimgdiv-div {
+    margin: 20px;
+    padding-top: 40px;
+    margin-left: 40px;
+}
+
+.imgindivmain {
+    border-radius: 10px;
+}
+
+.hedigdivmainpb {
+    font-size: 28px;
+    margin: 20px;
+}
+
+.buttondivhedig {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 550;
+}
+
+.twodivmain1div {
+    display: flex;
+    align-items: center;
+}
+
+.threedivmain {
+    display: flex;
+    align-items: center;
+}
+
+.buttondiv23 {
+    margin-left: 920px;
+}
+
+.sarcalimgdivmain {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.imgpdiv2-div {
+    margin-left: 20px 35px 0px;
+    padding-left: 65px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+}
+
+.logoonedivbaarnd {
+    padding: 20px;
+    display: flex;
+    margin: 50px;
+    /* background-color: white; */
+
+}
+
+.imglogoindiv {
+    font-size: 16px;
+    align-items: center;
+    border-color: #F2F2F2;
+    background-color: white;
+    border-width: 1px 1px 1px 1px;
+    border: 2px solid #F2F2F2;
+    padding: 55px 35px 15px 35px;
+    min-height: 20px 28px 28px;
+    padding: 40px;
+}
+.baclbluedivp{
+   font-size: 16px;
+   font-family: Roboto, Sans-serif;
+   font-weight: 500;
+   color: #FFDC60; 
+}
+.backbluedivhedig{
+font-size: 36px;
+font-weight: 700;
+font-family: "Barlow", Sans-serif;
+color: #FFF;
+}
+.mainbackbluediv{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+}
+.maildiv1{
+    background-color: white;
+    font-size: 13px;
+    height: 35px;
+    width: 400px;
+    margin-left: 200px;
+    padding-left: 20px;
+}
+.submitdiv1{
+    height: 38px;
+    width: 150px;
+    background-color:orange;
+}
+.imgmaildiv{
+    margin-right: 15px;
+}
+.maindivonediv{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.indivimg2{
+display: flex;
+align-items: center;
+}
+.spesialbutton{
+    border: 1px solid ;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    background-color: white;
+    margin: 5px;
+    font-family:  Roboto, Sans-serif ;
+}
+.backbuttonmain{
+    background-image: url(/footer_bg-pattern.png);
+    height: 250px;
+    padding: 45px;
+    margin-top: -20px;
+}
+.doted{
+    font-size: 90px;
+    color: blue;
+    margin-top: -5px;
+}
+.doted1{
+    font-size: 90px;
+    color: blue;
+    margin-top: 3px;
+    
+}
+.doteddiv-div{
+display: flex;
+align-items: center;
+}
+.dotedmaindiv{
+    display: flex;
+    align-items: center;
+}
+.pmargindiv{
+
+
+}
+.ldivmainblue{
+display: flex;
+align-items: center;
+    background-color: blue;
+}
+.appdivmain{
+    display: flex;
+    align-items: center;
+    margin-left: 700px;
+}
+.mainodivapp{
+    padding: 20px;
+}
+.hedigdiv1-div{
+    font-size: 18px;
+    font-family: Roboto, Sans-serif;
+    font-weight: 700;
+}
+.pdivmain-div{
+    font-size: 16px;
+    font-family: Roboto, Sans-serif;
+}
+.phdivmain{
+    font-size: 16px;
+}
+.hedig2divmain{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Roboto, Sans-serif;
+}
+.hedig3divmain{
+    font-size: 24px;
+    color: #2742FD;
+    font-family: 900px;
+    font-family: Roboto, Sans-serif;
+}
+.imgmaindivalindiv{
+    display: flex;
+    align-items: center;
+    margin-top: -50px;
+}
+.imgmaindivalindiv1{
+    display: flex;
+    align-items: center;
+    margin-top: -100px;
+}
+.imgredus{
+    border-radius: 10px;
+}
+.hedigbutton1{
+    font-size: 18px;
+    font-family:Roboto, Sans-serif ;
+}
+.maindivpsmoll{
+    font-size: 12px;
+    color: #2742FD;
+    font-family:Roboto, Sans-serif ;
+}
+.maindivhedigbig{
+    font-size: 16px;
+    font-family:Roboto, Sans-serif ;
+}
+.twodivpmain{
+    padding-top: 15px;
+}
+.dotyellow{
+    font-size: 60px;
+    color: orange;
+    
+
+}
+.twodivdotmain{
+display: flex;
+align-items: center;
+}
+.mainodivapp{
+    font-size: 16px;
+    font-family:Roboto, Sans-serif ;
+    color: white;
+
+}
+.alaghdiv{
+    color: white;
+    font-size: 16px;
+    font-family:Roboto, Sans-serif ;
+    display: flex;
+    align-items: center;
+}
+.indivpin{
+    color: orange;
+}
